@@ -10,5 +10,5 @@ export TWITTER_CONSUMER_SECRET=""
 export TWITTER_ACCESS_TOKEN=""
 export TWITTER_ACCESS_TOKEN_SECRET=""
 
-./bin/hubot -a irc
+./node_modules/hubot/bin/hubot -a irc
 
