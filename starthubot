@@ -1,0 +1,14 @@
+#!/bin/bash
+
+export HUBOT_IRC_NICK=""
+export HUBOT_IRC_ROOMS="" # comma separeted
+export HUBOT_IRC_SERVER=""
+export HUBOT_IRC_PASSWORD=""
+
+export TWITTER_CONSUMER_KEY=""
+export TWITTER_CONSUMER_SECRET=""
+export TWITTER_ACCESS_TOKEN=""
+export TWITTER_ACCESS_TOKEN_SECRET=""
+
+./bin/hubot -a irc
+
